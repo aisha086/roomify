@@ -21,61 +21,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.54545046734681" />
-      <entry key="MS500" value="2.9712154272756357" />
-      <entry key="S2" value="6.559735282629723" />
-      <entry key="S5" value="15.685403708552874" />
-      <entry key="S10" value="25.63688937933056" />
-      <entry key="S30" value="38.35319290638113" />
-      <entry key="S60" value="43.14481660116894" />
-      <entry key="M2" value="46.59715726208345" />
-      <entry key="M5" value="52.330849247999105" />
-      <entry key="M10" value="59.96947867729616" />
-      <entry key="M15" value="68.11907272473104" />
-      <entry key="M30" value="104.3084206201554" />
-      <entry key="H1" value="182.4151002548643" />
-      <entry key="H2" value="290.49046289935643" />
-      <entry key="H4" value="407.06610857287484" />
-      <entry key="D1" value="611.8252303422621" />
-      <entry key="W1" value="672.4848582104771" />
+      <entry key="MS100" value="1.476358946015826" />
+      <entry key="MS500" value="2.165686226172064" />
+      <entry key="S2" value="3.6512829391141337" />
+      <entry key="S5" value="4.386247954558954" />
+      <entry key="S10" value="5.537266161253302" />
+      <entry key="S30" value="17.306639292535795" />
+      <entry key="S60" value="29.495918012976375" />
+      <entry key="M2" value="40.123368531338734" />
+      <entry key="M5" value="51.73993681892101" />
+      <entry key="M10" value="61.67675332582655" />
+      <entry key="M15" value="70.60283365729525" />
+      <entry key="M30" value="107.36487560000464" />
+      <entry key="H1" value="185.70841884593196" />
+      <entry key="H2" value="294.1286446128997" />
+      <entry key="H4" value="411.1109246025156" />
+      <entry key="D1" value="616.5857412496331" />
+      <entry key="W1" value="677.4472477209781" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.610195825634978E-138" />
-      <entry key="S2" value="4.3589580548142414E-35" />
-      <entry key="S5" value="1.8019929019951724E-14" />
-      <entry key="S10" value="1.3423832917595356E-7" />
-      <entry key="S30" value="0.005120265426668282" />
-      <entry key="S60" value="0.071615018960469" />
-      <entry key="M2" value="0.27518155601834254" />
-      <entry key="M5" value="0.7333912638941034" />
-      <entry key="M10" value="1.2619050234336242" />
-      <entry key="M15" value="2.093013405007794" />
-      <entry key="M30" value="6.958897908941702" />
-      <entry key="H1" value="17.8933861779497" />
-      <entry key="H2" value="33.43847354643804" />
-      <entry key="H4" value="51.61474282599651" />
-      <entry key="D1" value="89.6733618822931" />
-      <entry key="W1" value="103.27878841530885" />
+      <entry key="MS500" value="1.5178106746014487E-167" />
+      <entry key="S2" value="1.9738057086707484E-42" />
+      <entry key="S5" value="2.0802798397161923E-17" />
+      <entry key="S10" value="4.561008484662339E-9" />
+      <entry key="S30" value="0.0016583922343043128" />
+      <entry key="S60" value="0.0407569335754107" />
+      <entry key="M2" value="0.20759553922157042" />
+      <entry key="M5" value="0.6552019939743482" />
+      <entry key="M10" value="1.1927417141561527" />
+      <entry key="M15" value="2.01582039975414" />
+      <entry key="M30" value="6.829365844496639" />
+      <entry key="H1" value="17.726071288085176" />
+      <entry key="H2" value="33.28177054385581" />
+      <entry key="H4" value="51.49365949710828" />
+      <entry key="D1" value="89.63826668457025" />
+      <entry key="W1" value="103.27301317325413" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.00679570464337" />
-      <entry key="MS500" value="2.6253835033337243" />
-      <entry key="S2" value="6.438324759663496" />
-      <entry key="S5" value="15.618493363637356" />
-      <entry key="S10" value="25.590180884764134" />
-      <entry key="S30" value="38.335996413826905" />
-      <entry key="S60" value="43.202369217497576" />
-      <entry key="M2" value="46.861026788267765" />
-      <entry key="M5" value="53.0448960948391" />
-      <entry key="M10" value="61.207050835806776" />
-      <entry key="M15" value="70.1854698441811" />
-      <entry key="M30" value="111.23174524514448" />
-      <entry key="H1" value="200.26650800326436" />
-      <entry key="H2" value="323.8910848605283" />
-      <entry key="H4" value="458.6527673261958" />
-      <entry key="D1" value="701.4912081480662" />
-      <entry key="W1" value="775.7624774282053" />
+      <entry key="MS100" value="0.852977965822728" />
+      <entry key="MS500" value="1.4678932376137428" />
+      <entry key="S2" value="3.3437092177799927" />
+      <entry key="S5" value="4.24645236861772" />
+      <entry key="S10" value="5.462716044466661" />
+      <entry key="S30" value="17.27602582172193" />
+      <entry key="S60" value="29.51605752569536" />
+      <entry key="M2" value="40.31609987797982" />
+      <entry key="M5" value="52.375318976715384" />
+      <entry key="M10" value="62.84522599417144" />
+      <entry key="M15" value="72.5921726509101" />
+      <entry key="M30" value="114.15890683150872" />
+      <entry key="H1" value="203.39269246138053" />
+      <entry key="H2" value="327.37263506472186" />
+      <entry key="H4" value="462.576512962425" />
+      <entry key="D1" value="706.2166179228531" />
+      <entry key="W1" value="780.7190905013485" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -90,30 +90,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "upload-files",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;upload-files&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2026.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\WebstormProjects\roomify" />
