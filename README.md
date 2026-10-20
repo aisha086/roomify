@@ -1,87 +1,27 @@
-# Welcome to React Router!
+# Roomify — AI-Powered 2D to 3D Floor Plans
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Roomify is a Next.js web application that transforms 2D floor plans into AI-generated 3D architectural visualizations using Puter.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+**[Live Demo](https://puter.com/app/roomify-7xfp)** 
 
-## Features
+## Tech Stack
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- **Frontend:** Next.js, React, TypeScript
+- **AI:** Puter AI
+- **Authentication, Storage & Hosting:** Puter
+- **Code Review:** CodeRabbit
 
 ## Getting Started
 
-### Installation
-
-Install the dependencies:
-
 ```bash
+git clone https://github.com/aisha086/roomify.git
+cd roomify
 npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
 npm run dev
 ```
 
-Your application will be available at `http://localhost:5173`.
+Open `http://localhost:3000` to run the application locally. Puter-dependent features may require authentication and additional configuration.
 
-## Building for Production
+## Acknowledgements
 
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
+Built while following the Roomify tutorial by [JavaScript Mastery (JS Mastery)](https://www.jsmastery.com/).
